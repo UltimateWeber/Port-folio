@@ -252,21 +252,21 @@ hr {
   .hero-container {
     flex-direction: column;
   }
-  .info-container{
+  .info-container {
     margin-top: 2rem;
   }
   .course {
     width: 75%;
   }
   .info-container button {
-      min-width: 100%;
-    }
-    .btn button {
-      min-width: 100%;
-      margin: 0.3rem;
-    }
+    min-width: 100%;
+  }
+  .btn button {
+    min-width: 100%;
+    margin: 0.3rem;
   }
 }
+
 @media (max-width: 600px) {
   .info-container h1 {
     font-size: 45px;
