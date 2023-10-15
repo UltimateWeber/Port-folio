@@ -1,0 +1,51 @@
+/* RESET */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.relative {
+  border: 2px solid orange;
+  padding: 0.4rem;
+  position: relative;
+  left: 50px;
+  right: 100px;
+}
+.absolute-parent {
+  border: 1px solid rebeccapurple;
+  width: 700px;
+  height: 500px;
+  padding: 2rem;
+  margin: 1rem;
+  position: relative;
+}
+.absolute {
+  border: 1px solid red;
+  width: 200px;
+  padding: 0.4rem;
+  position: absolute;
+  bottom: 15px;
+  right: 50px;
+} */
+/* position sticky */
+/* .sticky {
+  border: 1px solid rgb(255, 0, 162);
+  padding: 1rem;
+  position: sticky;
+  background-color: green;
+  top: 0;
+} */
+
+/* position sticky */
+
+/* .fixed {
+
+  border: 1px solid rgb(37, 19, 194);
+  padding: 1rem;
+  width: 500px;
+  position: fixed;
+  right: 25px;
+  font-weight: 700;
+  background-color: orange;
+  z-index: 1;
+} */
